@@ -8,7 +8,8 @@
     "profile": {
       "name": "Alejandro",
       "surnames": "Quiñones Seco",
-      "title": "%%HEADLINE%%",
+      "title": "Full Stack Developer | React · TypeScript · Python · Node.js · JAVA · .NET | Disponible para incorporación inmediata",
+      "description": "Desarrollador Full Stack con más de un año de experiencia profesional en entornos corporativos (NTT DATA, Sportian · Globant), trabajando con React, TypeScript, Python, FastAPI, Node.js, .NET y Azure. Cuento con doble titulación en Desarrollo de Aplicaciones Web (DAW) y Desarrollo de Aplicaciones Multiplataforma (DAM), lo que me da visión completa tanto de frontend como de backend. He desarrollado proyectos full-stack reales: desde una plataforma de gestión de vuelos con React 19, FastAPI y Supabase (TFG DAM, nota 8/10), hasta aplicaciones web con Laravel, PHP y MySQL (TFG DAW, nota 8/10). También tengo experiencia en DevOps, monitorización con Grafana y Zabbix, y pipelines con Azure DevOps. Busco un equipo donde pueda seguir creciendo, aportar desde el primer día y trabajar en proyectos con impacto real en los usuarios. 📍 Madrid · Disponible de forma inmediata · Híbrido o remoto",
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
@@ -23,8 +24,141 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Sportian"
+        },
+        "roles": [
+          {
+            "name": "Consultor DevOps · Prácticas",
+            "startDate": "2026-02-01",
+            "finishDate": "2026-05-01",
+            "challenges": [
+              {
+                "description": "Formé parte del equipo de Customer Support & Digital Operations en Sportian, empresa tecnológica del sector deportivo perteneciente a la multinacional Globant.   Desarrollo de scripts de automatización para la generación y configuración de dashboards en Grafana, reduciendo el tiempo de creación manual. Alta y configuración de dispositivos de red (switches y otros activos) en Zabbix según requerimientos técnicos. Gestión y resolución de incidencias de infraestructura a través de tickets en Jira, priorizando según impacto en los servicios. Monitorización de servicios desplegados en Azure DevOps y Azure Databricks en entorno ágil e internacional."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "NTT DATA"
+        },
+        "roles": [
+          {
+            "name": "Junior Engineer | Enterprise & Cloud Solutions (ECS)",
+            "startDate": "2023-06-01",
+            "finishDate": "2024-06-01",
+            "challenges": [
+              {
+                "description": "Formé parte del equipo de Enterprise & Cloud Solutions (ECS) en NTT DATA, dando soporte y mantenimiento a aplicaciones internas en entornos de cliente. Gestioné incidencias técnicas de forma autónoma, documenté procedimientos para facilitar el trabajo del equipo y colaboré en proyectos de mejora de procesos IT. Trabajé con Microsoft Dynamics 365 y Power Platform para optimizar y automatizar flujos de trabajo internos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "NTT DATA"
+        },
+        "roles": [
+          {
+            "name": "Becario — Ingeniero de software júnior",
+            "startDate": "2023-03-01",
+            "finishDate": "2023-06-01",
+            "challenges": [
+              {
+                "description": "Desarrollé herramientas internas para la automatización de procesos utilizando C# y .NET con WinForms. Primera experiencia en entorno corporativo real, trabajando con metodologías ágiles (Scrum) y bajo estándares de calidad de código. Colaboré con el equipo de ECS para entregar soluciones funcionales dentro de los plazos del proyecto."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "hardSkills": [
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Fastapi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Grafana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "JavaScript",
@@ -33,7 +167,49 @@
       },
       {
         "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Dynamics 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
           "type": "technology"
         }
       },
@@ -51,9 +227,61 @@
       },
       {
         "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Supabase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "TypeScript",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "WinForms",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Zabbix",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ciclo Formativo de Grado Superior",
+        "startDate": "2025-09-01",
+        "institution": {
+          "name": "IES El Cañaveral"
+        },
+        "finishDate": "2026-06-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ciclo Formativo de Grado Superior",
+        "startDate": "2021-09-01",
+        "institution": {
+          "name": "IES Laguna de Joatzel"
+        },
+        "finishDate": "2023-06-01"
       }
     ]
   },
