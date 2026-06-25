@@ -43,6 +43,24 @@
               {
                 "description": "Formé parte del equipo de Customer Support & Digital Operations en Sportian, empresa tecnológica del sector deportivo perteneciente a la multinacional Globant.   Desarrollo de scripts de automatización para la generación y configuración de dashboards en Grafana, reduciendo el tiempo de creación manual. Alta y configuración de dispositivos de red (switches y otros activos) en Zabbix según requerimientos técnicos. Gestión y resolución de incidencias de infraestructura a través de tickets en Jira, priorizando según impacto en los servicios. Monitorización de servicios desplegados en Azure DevOps y Azure Databricks en entorno ágil e internacional."
               }
+            ],
+            "competences": [
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Grafana",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Zabbix",
+                "type": "technology"
+              }
             ]
           }
         ]
