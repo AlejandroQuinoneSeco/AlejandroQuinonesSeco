@@ -21,6 +21,10 @@
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/alejandroqui%C3%B1onesseco/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/AlejandroQuinoneSeco"
       }
     ]
   },
@@ -291,6 +295,10 @@
         {
           "URL": "https://www.linkedin.com/in/alejandroqui%C3%B1onesseco/",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/AlejandroQuinoneSeco",
+          "type": "github"
         }
       ]
     },
