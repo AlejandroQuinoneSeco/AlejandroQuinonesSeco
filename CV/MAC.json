@@ -280,11 +280,11 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Ciclo Formativo de Grado Superior",
+        "name": "Ciclo Formativo de Grado Superior Desarrollo de aplicaciones Multiplataforma",
         "startDate": "2025-09-01",
         "institution": {
           "name": "IES El Cañaveral",
-          "description": "Desarrollo de aplicaciones Multiplataforma"
+          "description": "Ciclo Formativo de Grado Superior Desarrollo de aplicaciones Multiplataforma"
         },
         "finishDate": "2026-06-01"
       }
