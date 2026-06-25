@@ -99,6 +99,45 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "SkyFlow — TFG DAM",
+          "description": "Plataforma web full-stack de gestión de vuelos y reservas en tiempo real. Desarrollada como TFG del Ciclo Superior de DAM en equipo de 3 personas. Nota: 8/10.",
+          "URL": "https://github.com/AlejandroQuinoneSeco/SkyFlow"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2026-02-01",
+            "competences": [
+              {
+                "name": "Fastapi",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Supabase",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2026-06-01"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
@@ -389,6 +428,11 @@
       {
         "name": "TypeScript",
         "type": "technology"
+      }
+    ],
+    "projects": [
+      {
+        "name": "SkyFlow — TFG DAM"
       }
     ]
   }
