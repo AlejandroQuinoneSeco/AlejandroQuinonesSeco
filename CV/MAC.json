@@ -103,6 +103,34 @@
     "projects": [
       {
         "details": {
+          "name": "Tipstr — Proyecto personal",
+          "description": "Aplicación web de porra para el Mundial 2026 con predicciones en tiempo real, ranking en vivo y panel de administración.",
+          "URL": "https://github.com/AlejandroQuinoneSeco/Tipstr-Vanilla"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2026-05-01",
+            "competences": [
+              {
+                "name": "Google Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Netlify",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "SkyFlow — TFG DAM",
           "description": "Plataforma web full-stack de gestión de vuelos y reservas en tiempo real. Desarrollada como TFG del Ciclo Superior de DAM en equipo de 3 personas. Nota: 8/10.",
           "URL": "https://github.com/AlejandroQuinoneSeco/SkyFlow"
@@ -469,6 +497,9 @@
       },
       {
         "name": "SportManager — TFG DAW"
+      },
+      {
+        "name": "Tipstr — Proyecto personal"
       }
     ]
   }
