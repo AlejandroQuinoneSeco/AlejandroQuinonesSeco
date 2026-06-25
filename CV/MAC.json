@@ -84,6 +84,13 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
@@ -270,16 +277,6 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Ciclo Formativo de Grado Superior",
-        "startDate": "2021-09-01",
-        "institution": {
-          "name": "IES Laguna de Joatzel"
-        },
-        "finishDate": "2023-06-01"
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
         "name": "Ciclo Formativo de Grado Superior Desarrollo de aplicaciones Multiplataforma",
         "startDate": "2025-09-01",
         "institution": {
@@ -287,6 +284,17 @@
           "description": "Ciclo Formativo de Grado Superior Desarrollo de aplicaciones Multiplataforma"
         },
         "finishDate": "2026-06-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ciclo Formativo de Grado Superior Desarrollo de aplicaciones Web ",
+        "startDate": "2021-09-01",
+        "institution": {
+          "name": "IES Laguna de Joatzel",
+          "description": "Ciclo Formativo de Grado Superior Desarrollo de aplicaciones Web "
+        },
+        "finishDate": "2023-06-01"
       }
     ]
   },
