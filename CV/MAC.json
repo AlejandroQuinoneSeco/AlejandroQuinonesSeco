@@ -137,6 +137,39 @@
             "finishDate": "2026-06-01"
           }
         ]
+      },
+      {
+        "details": {
+          "name": "SportManager — TFG DAW",
+          "description": "Aplicación web de gestión deportiva con arquitectura MVC completa. Desarrollada como TFG del Ciclo Superior de DAW. Nota: 8/10.",
+          "URL": "https://github.com/AlejandroQuinoneSeco/SportManager"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-02-01",
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2023-06-01"
+          }
+        ]
       }
     ]
   },
@@ -433,6 +466,9 @@
     "projects": [
       {
         "name": "SkyFlow — TFG DAM"
+      },
+      {
+        "name": "SportManager — TFG DAW"
       }
     ]
   }
